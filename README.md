@@ -1,2 +1,2 @@
 # Java-1
-Java 1 lessons
+Java 2 lesson
